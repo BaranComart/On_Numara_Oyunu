@@ -2,18 +2,7 @@
 #include<stdlib.h>
 #include<conio.h>
 #include<time.h>
-
-/*
-1)KULLANICI SAYILARI GÝRECEK 10 TANE (1-80 ARASINDA)(HEPSÝ BÝRBÝRÝNDEN FARKLI OLACAK,AYNI SAYI YAZILDIÐINDA LÝSTE ÇÖPE ATILACAK YENÝSÝ ÝSTENECEK.) +
-2)PROGRAM 1-80 ARASINDA 22 TANE SAYI SEÇECEK (HEPSÝ BÝRBÝRÝNDEN FARKLI OLACAK,LÝSTE ÝÇÝNDE AYNI SAYI VARSA PAS GEÇECEK,YENÝSÝ SEÇÝLECEK) +
-3)KULLANICI SAYILARIYLA PROGRAM SAYILARI KARÞILAÞTIRILACAK VE AYNI OLAN SAYILAR YENÝ BÝR LÝSTE ÝÇÝNE EKLENECEK. +
-4)BU LÝSTE LENGTH ÝLE KONTROL EDÝLECEK VE DURUMA GÖRE KAZANIP KAZANMADIÐI BELÝRLENECEK.
-5)KAZANMA TABLOSU: 
-*0 ÝSE KAZANDI
-*O DAN BÜYÜK 6 DAN KÜÇÜK ÝSE KAYBETTÝ
-*6 VE 10 ARASI (6-10 DAHÝL) KAZANDI
-*/
-                                                                                                                        
+                                                                                                                
 int main(){
  
  	int i;
